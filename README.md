@@ -1,2 +1,2 @@
 # leet-book
-leetcode questions and it's answers.
+Here you will show some leetcode questions solution with it's approach.
